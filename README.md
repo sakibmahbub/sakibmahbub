@@ -1,4 +1,4 @@
-Hola, I'm Sakib Mahbub! 👋
+<h3><b>Hola, I'm Sakib Mahbub!</b></h3> 👋
 
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Custom Wordpress Theme Development
@@ -9,3 +9,5 @@ Hola, I'm Sakib Mahbub! 👋
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finnish
 
+
+<img src= "https://github-readme-stats.vercel.app/api?username=sakibmahbub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
