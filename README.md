@@ -10,7 +10,7 @@
 - 💬 Ask me about **Javascript, PHP and MySQL**
 
 - 📫 How to reach me **arafatsakib48@gmail.com**
-
+- 📫 Also on <a href = "https://www.linkedin.com/in/sakibmahbub"> **Linkedin** </a>
 - ⚡ Fun fact **Tea over Coffee ☕️**
 
 
