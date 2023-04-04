@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on SPA<br>🤝 I’m looking for help with State Management<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Front-End Development<br>⚡ Fun fact - tea over coffee ☕
+🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on SPA<br>🤝 I’m looking for help with State Management<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Front-End Development<br>⚡ Fun fact - Tea over Coffee ☕
 
 
 ## 🌐 Socials:
